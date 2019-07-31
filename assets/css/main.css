@@ -1,4 +1,4 @@
-
+﻿
 /*
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
@@ -299,6 +299,18 @@ bt {
   text-align:center;
         }
         
+.cacr{
+	
+  /*background-size:auto;*/
+      color: #FFFFFF;
+   background-color: #;
+   border: 1px solid #ff0000;
+  background: #ff0000;
+  border-radius:5px;
+  text-align:center;
+        }
+        
+
 .ccfb{
 	
   /*background-size:auto;*/
